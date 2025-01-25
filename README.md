@@ -1,2 +1,2 @@
 # Oil-Prices-Prediction
-I had dine the forecasting using KNN model and predicted the values for next year
+I had done the oil-price prediction using KNN model and predicted the Prices for next year
